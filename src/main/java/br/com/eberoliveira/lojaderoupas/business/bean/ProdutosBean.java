@@ -6,6 +6,7 @@ public class ProdutosBean {
 	private String nome;
 	private String categoria;
 	private float preco;
+	private String nomeImagem;
 	
 	public Integer getCodigo() {
 		return codigo;
@@ -30,6 +31,12 @@ public class ProdutosBean {
 	}
 	public void setPreco(float preco) {
 		this.preco = preco;
+	}
+	public String getNomeImagem() {
+		return nomeImagem;
+	}
+	public void setNomeImagem(String nomeImagem) {
+		this.nomeImagem = nomeImagem;
 	}
 
 }
