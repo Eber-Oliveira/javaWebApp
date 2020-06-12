@@ -19,7 +19,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-12">
-							<h3>Produtos Cadastrados</h3>
+							<h3>Lista de Produtos</h3>
 						</div>
 					</div>
 				</div>
