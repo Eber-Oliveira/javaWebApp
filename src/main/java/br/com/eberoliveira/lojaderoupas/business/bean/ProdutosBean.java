@@ -1,6 +1,7 @@
 package br.com.eberoliveira.lojaderoupas.business.bean;
 
-public class RoupaBean {
+public class ProdutosBean {
+	
 	private Integer codigo;
 	private String nome;
 	private String categoria;
@@ -30,6 +31,5 @@ public class RoupaBean {
 	public void setPreco(float preco) {
 		this.preco = preco;
 	}
-	
 
 }
