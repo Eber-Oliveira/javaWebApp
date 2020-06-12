@@ -4,7 +4,7 @@
 
 <html>
 
-<c:import url="/common/header.jsp" />
+<c:import url="/common/header.jsp"/>
 
 <body>
 	<div class="container-fluid">
